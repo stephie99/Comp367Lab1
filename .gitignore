@@ -4,3 +4,5 @@
 
 /MyCoreApp/bin/Debug/net8.0
 /.vs/MyCoreApp
+/MyCoreApp/obj
+/MyCoreApp/Properties
